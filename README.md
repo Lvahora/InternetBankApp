@@ -42,7 +42,7 @@
 ## 5. Установка и запуск
 • ОС: Windows 10/11 (x64)
 • .NET Desktop Runtime 7.0 или выше
-• SQL Server Express LocalDB / PostgreSQL 14+
+• PostgreSQL 14+
 • Visual Studio 2022 (рекомендуется) или Rider
 
 ## 6. Использование
